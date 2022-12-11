@@ -165,11 +165,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 685px;
+    min-height: 735px;
   }
 
   .u-section-2 .u-image-1 {
-    height: 606px;
+    height: 639px;
+    margin-top: 48px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -177,19 +178,29 @@
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: -56px;
+    margin-top: -542px;
     margin-left: 23px;
     margin-right: 23px;
   }
 
   .u-section-2 .u-text-2 {
     width: auto;
+    margin-top: 10px;
     margin-left: 13px;
     margin-right: 13px;
   }
 
+  .u-section-2 .u-btn-1 {
+    align-self: center;
+    margin-top: 117px;
+  }
+
   .u-section-2 .u-btn-2 {
+    margin-top: -113px;
     margin-left: auto;
+    margin-bottom: 236px;
+    padding-right: 20px;
+    padding-left: 19px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 459px;
@@ -284,7 +295,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 696px;
+    min-height: 721px;
   }
 
   .u-section-3 .u-image-1 {
@@ -296,15 +307,21 @@
 
   .u-section-3 .u-text-1 {
     width: auto;
-    margin-top: -70px;
+    margin-top: -548px;
     margin-left: 23px;
     margin-right: 23px;
   }
 
   .u-section-3 .u-text-2 {
     width: auto;
+    margin-top: 23px;
     margin-left: 13px;
     margin-right: 13px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 69px;
+    margin-bottom: 60px;
   }
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("np://user.desktop.nicepage.com/Site_57606639/images/27.png?rand=75f6");
