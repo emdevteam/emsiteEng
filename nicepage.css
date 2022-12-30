@@ -38815,7 +38815,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 69px;
+  width: 70px;
   height: 70px;
   margin: 29px auto 0 0;
 }
@@ -38893,6 +38893,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-1 {
     width: 70px;
+    height: 70px;
     margin-top: 37px;
     margin-left: 20px;
   }
@@ -38945,7 +38946,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 98px;
+    min-height: 105px;
   }
 
   .u-header .u-image-1 {
@@ -38955,9 +38956,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -57px;
-    margin-right: 11px;
-    margin-bottom: 31px;
+    margin-top: -55px;
+    margin-right: 0;
+    margin-bottom: 29px;
   }
 
   .u-header .u-sidenav-1 {
@@ -39028,6 +39029,11 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 298px;
   margin: 18px auto 27px;
 }
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-footer .u-social-icons-1 {
     width: 158px;
@@ -39057,6 +39063,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
+ /*begin-variables custom-site-css*/style.css?v=2/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
